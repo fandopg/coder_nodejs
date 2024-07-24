@@ -1,0 +1,15 @@
+[
+  {
+    "title": "arroz",
+    "description": "arrocito",
+    "price": 180,
+    "thumbnail": [
+      "imagenArroz.jpg"
+    ],
+    "code": 1654,
+    "stock": 56,
+    "category": "alimentos basicos",
+    "status": true,
+    "id": 1
+  }
+]
