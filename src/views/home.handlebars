@@ -1,0 +1,14 @@
+
+<h1>Productos</h1>
+<p>Lista de productos recuperados desde el archivo "products.json"</p>
+
+<div id="products-grid">
+    {{#each products}}
+    <div id="card-product">
+        <p>Titulo: {{this.title}}</p>
+        <p>Descripcion: {{this.description}}</p>
+        <p>Precio: ${{this.price}}</p>
+        <button type="button">Comprar</button>
+    </div>
+    {{/each}}
+</div>

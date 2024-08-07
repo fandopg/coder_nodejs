@@ -1,15 +1,132 @@
 [
   {
-    "title": "arroz",
-    "description": "arrocito",
-    "price": 180,
+    "title": "laptop",
+    "description": "laptop de 15 pulgadas",
+    "price": 800,
     "thumbnail": [
-      "imagenArroz.jpg"
+      "imagenLaptop.jpg"
     ],
     "code": 1654,
     "stock": 56,
-    "category": "alimentos basicos",
+    "category": "computadoras",
     "status": true,
     "id": 1
+  },
+  {
+    "title": "mouse",
+    "description": "mouse inalámbrico",
+    "price": 25,
+    "thumbnail": [
+      "imagenMouse.jpg"
+    ],
+    "code": 2345,
+    "stock": 150,
+    "category": "accesorios",
+    "status": true,
+    "id": 2
+  },
+  {
+    "title": "teclado",
+    "description": "teclado mecánico",
+    "price": 60,
+    "thumbnail": [
+      "imagenTeclado.jpg"
+    ],
+    "code": 3467,
+    "stock": 75,
+    "category": "accesorios",
+    "status": true,
+    "id": 3
+  },
+  {
+    "title": "monitor",
+    "description": "monitor 24 pulgadas",
+    "price": 150,
+    "thumbnail": [
+      "imagenMonitor.jpg"
+    ],
+    "code": 4567,
+    "stock": 30,
+    "category": "monitores",
+    "status": true,
+    "id": 4
+  },
+  {
+    "title": "impresora",
+    "description": "impresora multifuncional",
+    "price": 120,
+    "thumbnail": [
+      "imagenImpresora.jpg"
+    ],
+    "code": 5678,
+    "stock": 40,
+    "category": "impresoras",
+    "status": true,
+    "id": 5
+  },
+  {
+    "title": "tablet",
+    "description": "tablet de 10 pulgadas",
+    "price": 200,
+    "thumbnail": [
+      "imagenTablet.jpg"
+    ],
+    "code": 6789,
+    "stock": 80,
+    "category": "tablets",
+    "status": true,
+    "id": 6
+  },
+  {
+    "title": "cámara",
+    "description": "cámara digital",
+    "price": 300,
+    "thumbnail": [
+      "imagenCamara.jpg"
+    ],
+    "code": 7890,
+    "stock": 25,
+    "category": "cámaras",
+    "status": true,
+    "id": 7
+  },
+  {
+    "title": "smartphone",
+    "description": "smartphone de 6 pulgadas",
+    "price": 700,
+    "thumbnail": [
+      "imagenSmartphone.jpg"
+    ],
+    "code": 8901,
+    "stock": 50,
+    "category": "smartphones",
+    "status": true,
+    "id": 8
+  },
+  {
+    "title": "auriculares",
+    "description": "auriculares con cancelación de ruido",
+    "price": 100,
+    "thumbnail": [
+      "imagenAuriculares.jpg"
+    ],
+    "code": 9012,
+    "stock": 60,
+    "category": "accesorios",
+    "status": true,
+    "id": 9
+  },
+  {
+    "title": "altavoz",
+    "description": "altavoz Bluetooth",
+    "price": 50,
+    "thumbnail": [
+      "imagenAltavoz.jpg"
+    ],
+    "code": 1023,
+    "stock": 70,
+    "category": "accesorios",
+    "status": true,
+    "id": 10
   }
 ]
